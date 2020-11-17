@@ -1,0 +1,7 @@
+runtime: nodejs12
+env: standard
+env_variables:
+  SQL_USER: root
+  SQL_PASSWORD: schoemBerg1994
+  SQL_DATABASE: shoppinglist
+  INSTANCE_CONNECTION_NAME: proven-aviary-293214:europe-west3:express-api
