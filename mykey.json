@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "proven-aviary-293214",
+  "private_key_id": "68852962a4467f4bf7ff5ced9a4deaacc3c2c095",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC10XkNmcr1jGRO\nmpRKCR98Q3zI9+nSHDKhTN+exOKU6LBtJF6Yag8FVgk+zh6umeveGBhhovG7kNSo\n0WVhsGZHUgyI3e1R8JPS0n1YdJIm1WVyl2m5hAuUURgSkzbEWswPs5nuqAGPIH59\nOYTeOCbC5y3JTW9EosT8mzNmH2hUr6s59OX9hMb6UUUPKJy6Ijcut3kjw+p9KFHs\nLbtn5tle6UIqBHuJPa3Za1JhW+CXIumy6q0aUOHY/jcFG8cyIzuiNWIW4IXJc9ua\n83VVnye1z/0DvSD9U+rsr5vdeV+ZKbFTTLXwbc+8NJpV6uYgcSdkkYY88BIDZwFd\npcLMLD6fAgMBAAECggEAOeydY07e0THD9yLaIWgcpssdYy1QScb//lFuYLea9BPZ\nuTvAA1CurmWFloO2VKvm8B+/DMQLvVTb21iystevDgO+yI/jfppljeHPWzHwKf0M\nT+CbJyZBRiQ7xhcueInwvwPaA6V0sbOJeL2tbdp3xto9xQctbrFojo2nZ16UL34o\nVue61Y7Z0qfsSh1vVcK+MO6tHDleiRe5lM3e/nVV11Lg4drgjHg6iXtPYawaJv3B\n0oFDYIuNLGZbMhN9t37eeSQyLdQh8teVHcAj9omgJ3pZfx9Ff/OnFWJqmm32Oe4w\nq7VsK856XW1r53KxhXY2sAQ4YyEBOfIA1JzlVXjIsQKBgQD/4FUsxsyvA+GfaCnV\nrfRzLaWONquGKtOZFCyopmk0KjyaQjqssujW5wHUwpCH8aode3naCoeumrSyDftT\nc8HZ9B//4hTBPBxN9KuhpDEEmCwTpKZf45FipflV/nIOjJ9M9tRgUM8VmeYjd5Am\nV6y2m6pOC5IoSzAL+n3AWnK11wKBgQC15/mG863c99lphfeWRTqUQEcX+YjRK5IB\n0+dHQQCgk0KbXZV49+SQf4Cwv9gpSvL4R6L5UZeeoHe/sNmPk5s+AAEQIUW+gfgs\nrzphRrbmAUx0DR0loHiSouv6EARgzkxLWYnbagGl0YhoBZ6aQ2gG0kJzF0t+DiZr\nyRL4WUyUeQKBgQDz0N9Ye1YurpQfQTIb2lZEKgrHKHDot4ZJJ2Amk+tLObPliZY/\nWXtky1qDUaJG55Ah57aEfeQsDF6CC7CgJH1jIawcN2Fvf8e4wJuKutm6dwYI8atX\nU5EFXwHnXz1vf6+LtudHn7iz7KHOye8hmgmJN2tgUsZCfuKZh2asE4OaoQKBgCl5\n5iRGJYtvm8v6ttQ1nsC000D9LZv74kO2bFKL2LfEO/iu4uj9JMlpuQ8T/xaTN0kz\nFE7isr6BeixkB4c8MbZ2S8fAvmVMvyh5H8eUVxmkjCkd4Fp292b/7OxMgKMOBslb\ndhpoVk3Xs9F8Doi/+9UqVepmElmAonQLGd80hUiJAoGBAM//s3xx/06tGF0Btrvb\nqQw78NmoXeZw/KOFyhsyKsbOy3+ry3LY7/PkGc6mbhzUIeA2tvuY7Pgz00jiWKZh\noYGj8fJFFQlztEYndGnCCAkjvAXYxiGmbnzWZ1lSeUG8P+tS8hHVum5WCbHmY4ey\nIuxqaMPNgSlDlR4DCs9rlIK/\n-----END PRIVATE KEY-----\n",
+  "client_email": "biqquery-express@proven-aviary-293214.iam.gserviceaccount.com",
+  "client_id": "100747303350606085501",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/biqquery-express%40proven-aviary-293214.iam.gserviceaccount.com"
+}
